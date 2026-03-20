@@ -20,17 +20,15 @@ El objetivo principal de este trabajo fue aplicar un enfoque analítico riguroso
 
   ┣ 📄 `winequality.csv` (Dataset original)
   
-📁 `notebooks/`
+📁 `notebook/`
 
-  ┣ 📓 `01_EDA_y_Limpieza.ipynb` (Exploración de variables y correlaciones)
-  
-  ┣ 📓 `02_Modelado_y_Prediccion.ipynb` (Entrenamiento, validación y ajuste de hiperparámetros)
-  
+  ┣ 📓 `DS_WineQuality.ipynb` (Exploración de variables, correlaciones, entrenamiento, validación y ajuste de hiperparámetros)
+    
 📁 `images/`
 
-  ┣ 🖼️ `matriz_correlacion.png` (Ejemplo: Correlación entre alcohol y calidad)
+  ┣ 🖼️ `matriz_correlacion_entre_variables.png` (Ejemplo: Correlación entre alcohol y calidad)
   
-  ┣ 🖼️ `distribucion_calidad.png`
+  ┣ 🖼️ `distribucion_de_calidad_por_variable.png`
   
 📄 `README.md` (Este documento)
 
@@ -46,4 +44,5 @@ El objetivo principal de este trabajo fue aplicar un enfoque analítico riguroso
 ## 🚀 Cómo reproducir este proyecto
 1. Clonar este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/NicoLencina95/ProyectoFinalDataScience.git](https://github.com/NicoLencina95/ProyectoFinalDataScience.git)
+   git clone [https://github.com/NicoLencina95/DataScience-WineQuality.git](https://github.com/NicoLencina95/DataScience-WineQuality.git)
+  
